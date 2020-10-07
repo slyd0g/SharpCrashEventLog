@@ -3,7 +3,9 @@
 ![SharpCrashEventLog](https://raw.githubusercontent.com/slyd0g/SharpCrashEventLog/master/example.png)
 
 ## Description
-A port of [limbenjamin's](https://github.com/limbenjamin) [LogServiceCrash](https://github.com/limbenjamin/LogServiceCrash) project to C#. Crashes the Windows eventlog service locally or remotely using ```OpenEventLogA```/```ElfClearEventLogFileW```. 
+A port of [limbenjamin's](https://github.com/limbenjamin) [LogServiceCrash](https://github.com/limbenjamin/LogServiceCrash) project to C#. 
+
+Crashes the Windows eventlog service locally or remotely using ```OpenEventLogA```/```ElfClearEventLogFileW```.
 
 - Added the ability to specify a remote server from the cmdline
 
