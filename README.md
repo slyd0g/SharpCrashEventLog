@@ -1,6 +1,6 @@
 # SharpCrashEventLog
 
-![SharpCrashEventLog](https://raw.githubusercontent.com/slyd0g/SharpCrashEventLog/master/example.png)
+![SharpCrashEventLog](./example.png)
 
 ## Description
 A port of [limbenjamin's](https://github.com/limbenjamin) [LogServiceCrash](https://github.com/limbenjamin/LogServiceCrash) project to C#. 
