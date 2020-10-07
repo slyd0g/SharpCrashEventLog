@@ -15,7 +15,7 @@ From limbenjamin's [blogpost](https://limbenjamin.com/articles/crash-windows-eve
 
 ## Usage
 - Crash the local computer's event log service
-    - .\SharpCrashEventLog \\\\localhost
+    - ```.\SharpCrashEventLog \\localhost```
 - Crash a remote computer's event log service
-    - .\SharpCrashEventLog \\\\targetcomputer
+    - ```.\SharpCrashEventLog \\targetcomputer```
 
